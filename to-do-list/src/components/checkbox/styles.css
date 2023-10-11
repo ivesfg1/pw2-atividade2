@@ -1,0 +1,9 @@
+.checkbox {
+  color: none;
+  background-color: none;
+  border: none;
+}
+
+.taskRiscada {
+  text-decoration: line-through;
+}
